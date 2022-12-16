@@ -1,5 +1,5 @@
 package oopcinema.common;
 
-public class Employee {
-
+public class Employee extends Person {
+	private int employeeId;
 }
